@@ -8,4 +8,4 @@
 
 <b>Lou LaMartina</b> :octocat: [GitHub](https://github.com/loulanomics) :id: [ORCID](https://orcid.org/0000-0001-5605-5949) :bird: [Twitter](https://twitter.com/loulanomics)
 
-<b>Max Spehlmann</b> 
+<b>Max Spehlmann</b> :octocat: [GitHub](https://github.com/max-microbes)
