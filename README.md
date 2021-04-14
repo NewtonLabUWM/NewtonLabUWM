@@ -1,4 +1,4 @@
-## Commander in chief
+## Computer in chief
 
 <b> Ryan J. Newton </b> - :bird: [Twitter](https://twitter.com/aqcrobial) :books: [Google Scholar](https://scholar.google.com/citations?user=WaVCQwgAAAAJ&hl=en&oi=ao)
 
